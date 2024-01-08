@@ -1,0 +1,10 @@
+Notes for this Project!
+
+To enter into the virtual environment, execute:
+python -m venv env
+source env/bin/ativate
+
+To install packages:
+pip install speechrecognition
+brew install portaudio
+pip install pyaudio
